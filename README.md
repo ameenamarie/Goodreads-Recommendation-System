@@ -2,6 +2,8 @@
 
 This repository contains all of the materials for my second Capstone Project for Springboard's Data Science Bootcamp. 
 
+This project is still in progress. Expected completion: November 2018
+
 ***
 
 ## Background
