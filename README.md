@@ -2,18 +2,15 @@
 
 This repository contains all of the materials for my second Capstone Project for Springboard's Data Science Bootcamp. 
 
-This project is still in progress. Expected completion: November 2018
-
 ***
 
 ## Background
 
 Goodreads is a social media platform that allows users (aka readers) to rate and review books as well as see what their friends are reading, rating, and reviewing. Readers can store books on ‘shelves’ based on what they’ve read or what they want to read.
 
-Currently, the Goodreads recommendation system uses a reader’s shelves to suggest books they might be interested in reading next. However, the system is rudimentary and does not offer helpful suggestions since most of the books it recommends are obscure and do not appear to be based on what they've previously rated or what their friends have read.
+Currently, the Goodreads recommendation system uses a reader’s shelves to suggest books they might be interested in reading next. However, the system does not always offer helpful suggestions since most of the books it recommends are obscure and do not appear to be based on what they've previously rated or what their friends have read.
 
 Is it possible to create a more useful recommendation system for readers?
-
 
 ***
 
@@ -31,7 +28,9 @@ The Goodbooks dataset includes over six million ratings of ten thousand books on
 
 ## Models Used
 
-tbd
+* Simple Model
+* Collaboration Model
+* Singular Value Decomposition Model
 
 ***
 
